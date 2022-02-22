@@ -1,0 +1,13 @@
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.exe
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.deps.json
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.runtimeconfig.json
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.runtimeconfig.dev.json
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.dll
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\bin\Debug\netcoreapp3.1\Calculadora.BaltaCurso.pdb
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.csprojAssemblyReference.cache
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.AssemblyInfoInputs.cache
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.AssemblyInfo.cs
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.csproj.CoreCompileInputs.cache
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.dll
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.pdb
+C:\Users\Adiel Cardoso\Documents\GitHub\Calculadora.BaltaCurso\obj\Debug\netcoreapp3.1\Calculadora.BaltaCurso.genruntimeconfig.cache
